@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: Github
+  repo: IronString44/Blog
 
 media_folder: static/assets
 public_folder: assets
