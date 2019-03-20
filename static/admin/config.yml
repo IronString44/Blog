@@ -1,5 +1,5 @@
 backend:
-  name: Github
+  name: github
   repo: IronString44/Blog
 
 media_folder: static/assets
